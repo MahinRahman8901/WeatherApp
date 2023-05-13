@@ -1,4 +1,5 @@
-# Preact Boilerplate / Starter Kit for a Weather App
+# How To Run
+## This is a weather app created in university that has a fully working map that users can use to navigate around london whilst also providing real time updates when it comes to the weather aswell
 
 ## Set-Up Guide
 - [Installation](#installation)
